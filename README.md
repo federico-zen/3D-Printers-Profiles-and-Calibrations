@@ -1,4 +1,4 @@
-# ⚠️3D-Printer-Profile-and-Calibration⚠️
+# ⚠️3D-Printers-Profiles-and-Calibrations⚠️
 A simple repo for some of my cura profile and some GCODE that i use for calibrating my printers
 
 # Printers List
