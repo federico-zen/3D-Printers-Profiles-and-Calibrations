@@ -3,7 +3,7 @@ A simple repo for some of my cura profile and some GCODE that i use for calibrat
 
 # Printers List
 <p> 
-◽ Anet A8 Plus (SKR 1.4 Turbo Swapped) <br>
+  ◽ <a href ="Anet A8 Plus/">Anet A8 Plus (SKR 1.4 Turbo Swapped) </a> <br>
 ◽ Monoprice Mini Delta <br>
 ◽ GEEETECH A20<br>
 </p>
