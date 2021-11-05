@@ -8,7 +8,3 @@ A simple repo for some of my cura profile and some GCODE that i use for calibrat
 ◽ GEEETECH A20<br>
 </p>
 
-# Filament
-<p>
-    
-</p>
