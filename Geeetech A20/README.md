@@ -42,7 +42,7 @@ GESSO |  |  |  |  |  |  |
 # MODS AND REPLACEMENTS 💥
 <p> 
   ◽ <a href ="https://www.thingiverse.com/thing:3910223">Fan Duct </a> <br>
-  ◽ <a href =" https://www.thingiverse.com/thing:3151040">Filament Sensor Housing </a> <br>
+  ◽ <a href ="https://www.thingiverse.com/thing:3151040">Filament Sensor Housing </a> <br>
  
   
 </p>
