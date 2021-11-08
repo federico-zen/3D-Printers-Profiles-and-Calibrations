@@ -3,7 +3,7 @@
 # 🔨 Material and Settings 🔧
 Material | Nozzle Temperature | Bed Temperature | Fan Speed | Print Speed | Retraction Distance | Retraction Speed | Note And Problems
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-PLA | 190 | 50 | 100% |  |  |  | 
+PLA | 190 | 50 | 100% | 60mm/s | 4mm | 50mm/s | 
 PETG |  |  |  |  |  |  | 
 TPU |  |  |  |  |  |  |
 
