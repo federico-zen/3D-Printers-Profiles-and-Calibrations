@@ -5,10 +5,7 @@ Material | Nozzle Temperature | Bed Temperature | Fan Speed | Print Speed | Retr
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 PLA | 190 | 50 | 100% | 60mm/s | 6.5 mm | 25mm/s | //
 PETG | 235 | 70 | 50% | 50mm/s | 6 mm | 25mm/s | Little Stringing
-ALFAPRO |  |  |  |  |  |  |
-ALFAPLUS |  |  |  |  |  |  |
 TPU |  |  |  |  |  |  |
-GESSO |  |  |  |  |  |  |
 
 
 # START GCODE 🏁
