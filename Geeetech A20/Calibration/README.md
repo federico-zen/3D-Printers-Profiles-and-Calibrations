@@ -10,7 +10,7 @@
 
 ## Pre-Sliced Model
 <p> 
-	◽<a href="GCODE/220-260PETG_Temp_Tower"> PETG Temp-Tower</a> <br>
+	◽<a href="GCODE/220-260PETG_Temp_Tower.gcode"> PETG Temp-Tower</a> <br>
 	
 
 </p>
