@@ -5,10 +5,7 @@ Material | Nozzle Temperature | Bed Temperature | Fan Speed | Print Speed | Retr
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 PLA | 190 | 50 | 100% |  |  |  | 
 PETG |  |  |  |  |  |  | 
-ALFAPRO |  |  |  |  |  |  |
-ALFAPLUS |  |  |  |  |  |  |
 TPU |  |  |  |  |  |  |
-GESSO |  |  |  |  |  |  |
 
 
 # START GCODE 🏁
