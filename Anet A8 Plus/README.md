@@ -1,9 +1,11 @@
 # ⚠️ Anet A8 Plus ⚠️
 
+Anet A8 plus with SRK 1.4 Turbo , TMC2209 , E3D V6 Clone (Direct Drive)
+
 # 🔨 Material and Settings 🔧
 Material | Nozzle Temperature | Bed Temperature | Fan Speed | Print Speed | Retraction Distance | Retraction Speed | Note And Problems
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-PLA | 190 | 50 | 100% |  |  |  | 
+PLA | 190 | 50 | 100% | 50mm/s | 0.8mm | 35mm/s | 
 PETG |  |  |  |  |  |  | 
 TPU |  |  |  |  |  |  |
 
